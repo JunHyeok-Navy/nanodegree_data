@@ -1,5 +1,6 @@
 # Boston Airbnb Analysis
 Project of Nanodegree in Udacity
+Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f82b556c12f
 
 ## Used Library
 
