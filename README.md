@@ -3,7 +3,8 @@ Project of Nanodegree in Udacity
 
 ## Motivation
 This project (Write a Data Science Blog Post) is part of Udacity's Data Scientists Nanodegree Program. Detailed analysis with all needed code is posted in this Github repository.
-I wrote my code by following CRISP-DM methodology :)
+At first, airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.
+I used airbnb many times. At that time, I felt so comfortable to tour and book rooms! So I chose this 'Airbnb Boston Data' to my project. There are 3 business questions and answers with following CRISP-DM methodology.
 
 Here are my business questions!
 
@@ -19,6 +20,11 @@ Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f
 * **Numpy**  - Handling Array
 * **tqdm**   - Visualization of progress
 * **Seaborn & Matplotlib** - Visualization of data
+
+## Data Set
+
+* **listings.csv** : Including full descriptions and average review score
+* **reviews.csv**  : Including unique id for each reviewer and detailed comments
 
 ## CRISP-DM
 
