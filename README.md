@@ -35,12 +35,9 @@ Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f
 5.  Evaluation
 6.  Deployment
 
-## Introduction
+## Result & Conclusion
 
-There are 3 questions about price, review data!
-
-I wrote those code with some visualization and made my own conclusion!
-
-Detail about my project is in my notebook file!
+We can use CRISP-DM Method to analyze any data! This method can be a pipline of data analysis.
+I hope my skill getting improved to analyze various data even if these are being complicated!
 
 ## Thanks.
