@@ -9,7 +9,7 @@ I used airbnb many times. At that time, I felt so comfortable to tour and book r
 
 Here are my business questions!
 
-1. Which features are influential to Price(Target Data)?
+1. Which neighbourhood have high prices (Basic Clustering)?
 2. Which street is richest? - By our data, we can analyze which streets are Top 5 richest!
 3. Relationship between Positive & Negative words in review data & review_scores, price
 
