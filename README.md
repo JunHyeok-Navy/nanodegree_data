@@ -41,4 +41,9 @@ Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f
 We can use CRISP-DM Method to analyze any data! This method can be a pipline of data analysis.
 I hope my skill getting improved to analyze various data even if these are being complicated!
 
+There are many variables related to price.
+We can analyze those features to predict future target.
+
+In next version, I wanna use many algorithms to make my own model!
+
 ## Thanks.
