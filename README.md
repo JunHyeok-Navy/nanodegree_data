@@ -3,6 +3,7 @@ Project of Nanodegree in Udacity
 
 ## Motivation
 This project (Write a Data Science Blog Post) is part of Udacity's Data Scientists Nanodegree Program. Detailed analysis with all needed code is posted in this Github repository.
+
 At first, airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.
 I used airbnb many times. At that time, I felt so comfortable to tour and book rooms! So I chose this 'Airbnb Boston Data' to my project. There are 3 business questions and answers with following CRISP-DM methodology.
 
