@@ -55,6 +55,6 @@ In next version, I wanna use many algorithms to make my own model!
 
 ## Acknowledgements
 
-This project's data is from Boston_Airbnb_Data[open data](https://www.kaggle.com/airbnb/boston).
+This project's data is from Boston_Airbnb_Data [data-link](https://www.kaggle.com/airbnb/boston).
 
 ## Thanks.
