@@ -13,7 +13,7 @@ Here are my business questions!
 2. Which street is richest? - By our data, we can analyze which streets are Top 5 richest!
 3. Relationship between Positive & Negative words in review data & review_scores, price
 
-Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f82b556c12f
+Medium blog path : https://junhyeokpark.medium.com/analysis-of-boston-airbnb-data-5f82b556c12f
 
 ## Used Library
 
