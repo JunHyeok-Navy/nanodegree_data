@@ -38,6 +38,13 @@ Medium blog path : https://gylee206.medium.com/analysis-of-boston-airbnb-data-5f
 
 ## Result & Conclusion
 
+1. Which neighbourhood have high prices (Basic Clustering)?
+*   **The richest neighbourhood is Leather District! And we can see the clustering of roomtype - price. Type - entire home/apt is most expensive roomtype!**
+2. Which street is richest? - By our data, we can analyze which streets are Top 5 richest!
+*   **Boston Wharf Road, Congress Street, 8th Street, Edgerly Road, West 1st Street are Top 5 richest street! By google map, these streets are near by ocean!**
+3. Relationship between Positive & Negative words in review data & review_scores, price
+*   **The most sensitive to review words is review_scores_cleanliness! It means that most of reivewer left a review of room cleanliness.**
+
 We can use CRISP-DM Method to analyze any data! This method can be a pipline of data analysis.
 I hope my skill getting improved to analyze various data even if these are being complicated!
 
